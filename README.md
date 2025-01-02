@@ -1,4 +1,4 @@
-Netbox Custom Validator documentation:
+Netbox Custom Validator documentation: https://netboxlabs.com/docs/netbox/en/stable/customization/custom-validation/
 
 Created with Netbox 4.1
 
